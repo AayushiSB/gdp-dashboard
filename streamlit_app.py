@@ -16,7 +16,6 @@ st.markdown("""
         padding: 60px;
         text-align: center;
         border-radius: 15px;
-        
         color: white;
         font-family: 'Arial', sans-serif;
     }
